@@ -32,4 +32,19 @@ body {
     justify-content: space-around;
 }
 
+#menu a {
+    color: black;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+
+/* color uadeo #961436 */
+#menu a:hover {
+    color: white;
+    background-color: #961436;
+}
+
+/* .submenu>a:hover+ul {
+    display: list-item;
+} */
 
